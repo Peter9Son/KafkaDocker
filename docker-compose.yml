@@ -2,7 +2,7 @@ version: "2"
 
 services:
   kafkaserver:
-    image: "spotify/kafka:latest"
+    image: "spotify/docker-kafka:latest"
     container_name: kafka
     hostname: kafkaserver
     networks:
