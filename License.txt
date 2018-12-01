@@ -1,2 +1,2 @@
- 
+ CopyRight @ Soptify (https://hub.docker.com/r/spotify/kafka/)
  
