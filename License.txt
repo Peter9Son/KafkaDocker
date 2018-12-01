@@ -1,2 +1,4 @@
- CopyRight @ Soptify (https://hub.docker.com/r/spotify/kafka/)
+ CopyRight @ Soptify (https://hub.docker.com/r/spotify/kafka/)  
+           @ Marcin Zabłocki (https://zablo.net/)
+
  
